@@ -1,1 +1,0 @@
-print("tesla roadster")
